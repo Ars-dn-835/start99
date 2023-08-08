@@ -8,6 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-
+<div class="s"></div>
+<div class="s"></div>
+<div class="s"></div>
 </body>
 </html>
